@@ -1,0 +1,4 @@
+https://www.jetbrains.com/de-de/rider/
+https://visualstudio.microsoft.com/de/
+
+Das Dokument dient nur zum Einrichten vom GitHub-Repository.. nichts, was man nicht auch irgendwo anders findet :)
