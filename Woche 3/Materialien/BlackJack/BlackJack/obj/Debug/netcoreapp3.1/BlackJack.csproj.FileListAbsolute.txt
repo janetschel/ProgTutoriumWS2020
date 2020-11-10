@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.deps.json
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.dll
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.pdb
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.dll
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.pdb
+/Volumes/Externe Festplatte/GitHub/BlackJack/BlackJack/obj/Debug/netcoreapp3.1/BlackJack.genruntimeconfig.cache
