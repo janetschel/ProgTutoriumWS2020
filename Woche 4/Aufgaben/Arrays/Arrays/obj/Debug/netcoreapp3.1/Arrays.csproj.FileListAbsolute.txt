@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/bin/Debug/netcoreapp3.1/Arrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/Arrays/Arrays/obj/Debug/netcoreapp3.1/Arrays.genruntimeconfig.cache

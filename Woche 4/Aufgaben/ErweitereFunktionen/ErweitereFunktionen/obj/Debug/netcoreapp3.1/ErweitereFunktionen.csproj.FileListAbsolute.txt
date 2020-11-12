@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/bin/Debug/netcoreapp3.1/ErweitereFunktionen.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/bin/Debug/netcoreapp3.1/ErweitereFunktionen.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/bin/Debug/netcoreapp3.1/ErweitereFunktionen.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/bin/Debug/netcoreapp3.1/ErweitereFunktionen.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/bin/Debug/netcoreapp3.1/ErweitereFunktionen.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Aufgaben/ErweitereFunktionen/ErweitereFunktionen/obj/Debug/netcoreapp3.1/ErweitereFunktionen.genruntimeconfig.cache
