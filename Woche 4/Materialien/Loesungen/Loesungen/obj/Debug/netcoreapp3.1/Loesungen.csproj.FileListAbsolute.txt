@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/bin/Debug/netcoreapp3.1/Loesungen.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/bin/Debug/netcoreapp3.1/Loesungen.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/bin/Debug/netcoreapp3.1/Loesungen.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/bin/Debug/netcoreapp3.1/Loesungen.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/bin/Debug/netcoreapp3.1/Loesungen.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 4/Materialien/Loesungen/Loesungen/obj/Debug/netcoreapp3.1/Loesungen.genruntimeconfig.cache
