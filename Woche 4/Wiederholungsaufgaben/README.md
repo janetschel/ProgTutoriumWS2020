@@ -19,8 +19,11 @@ Diese Aufgabensammlung beinhaltet Aufgaben zu:
 - weitere verschiedene Übungsaufgaben
 
 ### Anzahl der Aufgaben
-<<<<<<< HEAD
 Momentan gibt es insgesamt **29 Übungsaufgaben**
-=======
-Momentan gibt es insgesamt **29 Übungsaufgaben**
->>>>>>> 536194aa37489c0fefa845897669c13f3e39e3a4
+
+## Anmerkungen zu den Lösungen
+Einige Anmerkungen zu diesen Lösungen:
+
+- Die Lösungen sind nach Thema unterteilt
+- Pro Aufgabe gibt es eine Program.cs, in welcher der Code zum Lösen der Aufgabe zu finden ist
+- Es gibt für jede Aufgabe verschiedene Lösungen. Falls ihr also eine Lösung habt, welche funktioniert, welche aber nicht mit meiner Lösung übereinstimmt, ist eure Lösung genauso valide!
