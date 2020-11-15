@@ -19,8 +19,4 @@ Diese Aufgabensammlung beinhaltet Aufgaben zu:
 - weitere verschiedene Übungsaufgaben
 
 ### Anzahl der Aufgaben
-<<<<<<< HEAD
 Momentan gibt es insgesamt **29 Übungsaufgaben**
-=======
-Momentan gibt es insgesamt **29 Übungsaufgaben**
->>>>>>> 536194aa37489c0fefa845897669c13f3e39e3a4
