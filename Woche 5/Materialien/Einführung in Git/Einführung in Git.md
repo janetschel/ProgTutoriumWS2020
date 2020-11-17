@@ -380,4 +380,4 @@ Dieses Kapitel wird nach und nach bei auftretenden Fragen ergänzt.
 ~ git init
 ```
 
-    behebt hierbei euer Problem.
+behebt hierbei euer Problem.
