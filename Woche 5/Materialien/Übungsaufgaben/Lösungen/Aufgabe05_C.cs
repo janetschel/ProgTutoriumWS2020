@@ -30,7 +30,7 @@ namespace Arrays
              * auch hier, dass es keine möglichen Paare gibt.
              */
 
-            // es wird niemals mehr Differenzen geben, also originale Elemente im Array enthalten sind
+            // es wird niemals mehr Differenzen geben, als originale Elemente im Array enthalten sind
             var knownDifferencesToSum = new int[array.Length];
 
             // j als Index in knownDifferencesToSum
