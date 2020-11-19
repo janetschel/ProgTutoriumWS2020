@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/bin/Debug/netcoreapp3.1/TwoDArrays.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/bin/Debug/netcoreapp3.1/TwoDArrays.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/bin/Debug/netcoreapp3.1/TwoDArrays.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/bin/Debug/netcoreapp3.1/TwoDArrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/bin/Debug/netcoreapp3.1/TwoDArrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Aufgaben/TwoDArrays/TwoDArrays/obj/Debug/netcoreapp3.1/TwoDArrays.genruntimeconfig.cache
