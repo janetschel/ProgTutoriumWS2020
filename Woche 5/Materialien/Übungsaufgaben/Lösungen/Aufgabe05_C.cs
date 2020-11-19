@@ -32,19 +32,15 @@ namespace Arrays
 
             // es wird niemals mehr Differenzen geben, als originale Elemente im Array enthalten sind
             var knownDifferencesToSum = new int[array.Length];
-
-            // j als Index in knownDifferencesToSum
-            for (int i = 0, j = 0; i < array.Length; i++)
+            
+            for (int i = 0; i < array.Length; i++)
             {
                 var currentNumber = array[i];
 
                 if (knownDifferencesToSum.Contains(currentNumber))
-                    return true; // currentNumber ist eine Differenz zur Summe mit einer anderen Zahl bildet
+                    return true; // currentNumber bildet mit einer anderen Nummer die Summe
                 
-                var difference = sum - array[i];
-                
-                if (!knownDifferencesToSum.Contains(difference))
-                    knownDifferencesToSum[j++] = difference; // Inkrementieren von j nur wenn wir ein Element hinzufügen
+                knownDifferencesToSum[i] = sum - currentNumber;
             }
 
             // Bisher keine Paare gefunden
