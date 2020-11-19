@@ -1,3 +1,5 @@
+# Einführung in Git und GitHub
+
 Dieses Write-Up dient als kleine Übersicht über Git und GitHub, welches gut als Cheat-Sheet benutzt werden kann. Es beinhaltet dabei allerdings nur die Grundfunktionen, welche Git bietet.
 
 ## Was ist Git?
@@ -378,4 +380,4 @@ Dieses Kapitel wird nach und nach bei auftretenden Fragen ergänzt.
 ~ git init
 ```
 
-    behebt hierbei euer Problem.
+behebt hierbei euer Problem.
