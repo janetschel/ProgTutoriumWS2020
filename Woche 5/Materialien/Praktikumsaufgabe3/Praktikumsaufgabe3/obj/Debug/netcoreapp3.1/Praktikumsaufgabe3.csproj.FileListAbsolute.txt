@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/bin/Debug/netcoreapp3.1/Praktikumsaufgabe3.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/bin/Debug/netcoreapp3.1/Praktikumsaufgabe3.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/bin/Debug/netcoreapp3.1/Praktikumsaufgabe3.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/bin/Debug/netcoreapp3.1/Praktikumsaufgabe3.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/bin/Debug/netcoreapp3.1/Praktikumsaufgabe3.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 5/Materialien/Praktikumsaufgabe3/Praktikumsaufgabe3/obj/Debug/netcoreapp3.1/Praktikumsaufgabe3.genruntimeconfig.cache
