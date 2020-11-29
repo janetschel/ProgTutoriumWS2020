@@ -1,0 +1,12 @@
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/bin/Debug/netcoreapp3.1/IndexOfStringsAndArrays.deps.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/bin/Debug/netcoreapp3.1/IndexOfStringsAndArrays.runtimeconfig.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/bin/Debug/netcoreapp3.1/IndexOfStringsAndArrays.runtimeconfig.dev.json
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/bin/Debug/netcoreapp3.1/IndexOfStringsAndArrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/bin/Debug/netcoreapp3.1/IndexOfStringsAndArrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.csprojAssemblyReference.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.AssemblyInfoInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.AssemblyInfo.cs
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.csproj.CoreCompileInputs.cache
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.dll
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.pdb
+/Volumes/Externe Festplatte/GitHub/progtutws2020/Woche 6/Aufgaben/IndexOfStringsAndArrays/IndexOfStringsAndArrays/obj/Debug/netcoreapp3.1/IndexOfStringsAndArrays.genruntimeconfig.cache
