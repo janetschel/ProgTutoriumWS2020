@@ -86,5 +86,5 @@ Schreibe eine Funktion (in der Hauptklasse) `UeberpruefeName(string name)`, welc
 - Fehlermeldung: `IMPOSTOR`, falls der Name "Jan" ist
 - Fehlermeldung: `Name zu lang`, falls der Name über 100 Zeichen hat
 - Fehlermeldung: `Das ist kein Name`, falls der *Name* zu einem Integer geparsed werden kann
-- Falls keine der oben folgenden Fälle zutrifft, soll das Funktion keine Exception werden, sondern den Namen auf der Konsole in GROSSBUCHSTABEN ausgeben.
+- Falls keine der oben folgenden Fälle zutrifft, soll die Funktion keine Exception werden, sondern den Namen auf der Konsole in GROSSBUCHSTABEN ausgeben.
 
