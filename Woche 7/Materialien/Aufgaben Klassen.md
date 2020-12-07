@@ -82,9 +82,9 @@ Falls keine Nummer übergeben werden sollte, soll automatisch `hallohallohalloha
 ## Aufgabe 5: Exceptions
 
 Schreibe eine Funktion (in der Hauptklasse) `UeberpruefeName(string name)`, welche eine Exception, mit folgenden Fehlermeldungen werfen soll:
-- 1. Fehlermeldung: `Name zu kurz`, falls der Name unter 10 Zeichen hat
-- 2. Fehlermeldung: `IMPOSTOR`, falls der Name "Jan" ist
-- 3. Fehlermeldung: `Name zu lang`, falls der Name über 100 Zeichen hat
-- 4. Fehlermeldung: `Das ist kein Name`, falls Buchstaben außer a bis z (oder A bis Z) in diesem Namen enthalten sind. **Achtung**: das schließt auch Umlaute aus!
-- 5. Falls keine der oben folgenden Fälle zutrifft, soll die Funktion keine Exception werden, sondern den Namen auf der Konsole in GROSSBUCHSTABEN ausgeben.
+1) Fehlermeldung: `Name zu kurz`, falls der Name unter 10 Zeichen hat
+2) Fehlermeldung: `IMPOSTOR`, falls der Name "Jan" ist
+3) Fehlermeldung: `Name zu lang`, falls der Name über 100 Zeichen hat
+4) Fehlermeldung: `Das ist kein Name`, falls Buchstaben außer a bis z (oder A bis Z) in diesem Namen enthalten sind. **Achtung**: das schließt auch Umlaute aus!
+5) Falls keine der oben folgenden Fälle zutrifft, soll die Funktion keine Exception werden, sondern den Namen auf der Konsole in GROSSBUCHSTABEN ausgeben.
 
