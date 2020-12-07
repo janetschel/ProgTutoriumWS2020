@@ -85,6 +85,7 @@ Schreibe eine Funktion (in der Hauptklasse) `UeberpruefeName(string name)`, welc
 - Fehlermeldung: `Name zu kurz`, falls der Name unter 10 Zeichen hat
 - Fehlermeldung: `IMPOSTOR`, falls der Name "Jan" ist
 - Fehlermeldung: `Name zu lang`, falls der Name über 100 Zeichen hat
-- Fehlermeldung: `Das ist kein Name`, falls Buchstaben außer a bis z (oder A bis Z) in diesem Namen enthalten sind. **Achtung**: dt. Umlaute sind somit auch Buchstaben, welche **nicht** enhalten sein dürfen! 
+- Fehlermeldung: `Das ist kein Name`, falls Buchstaben außer a bis z (oder A bis Z) in diesem Namen enthalten sind.  
+**Achtung**: dt. Umlaute sind somit auch Buchstaben, welche **nicht** enhalten sein dürfen! 
 - Falls keine der oben folgenden Fälle zutrifft, soll die Funktion keine Exception werden, sondern den Namen auf der Konsole in GROSSBUCHSTABEN ausgeben.
 
