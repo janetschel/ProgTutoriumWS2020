@@ -91,6 +91,8 @@ Rudolph ist 18 und hat eine rote Nase.
 Anbei findet ihr eine Datei, welche Rentiere aller Art enthält.  
 Schreibt in der Klasse `Schlitten` eine Methode, für welche kein Objekt erstellt werden muss, welche die Datei einliest und ein neues Schlitten-Objekt mit allen Rentieren zurückgibt.
 
+Damit die Klasse `Schlitten` mehr als 9 Rentiere aufnehmen kann (die Datei hat mehr als 9 Einträge), schriebe zuerst einen weiteren Paramterkonstruktor, welches wie gewohnt das Array der Rentieren übergeben bekommt, UND eine Länge (wie viele Rentiere existieren), damit die Größe des internen Arrays im Kontruktor gesetzt werden kann,.
+
 Die Datei hat folgendes Format:
 ```bash
 Rudolph,18,ja
