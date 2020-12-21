@@ -89,7 +89,14 @@ Rudolph ist 18 und hat eine rote Nase.
 ### Aufgabe 5: Lesen aus einer Datei
 
 Anbei findet ihr eine Datei, welche Rentiere aller Art enthält.  
-Schreibt in der Klasse `Schlitten` eine Methode, für welche kein Objekt erstellt werden muss, welche die Datei einliest und ein neues Schlitten-Objekt mit allen Rentieren zurückgibt.
+Schreibt in der Klasse `Schlitten` eine Methode, für welche kein Objekt erstellt werden muss, welche die Datei einliest und ein neues Schlitten-Objekt mit allen Rentieren zurückgibt.  
+Der Methodenkopf könnte so aussehen:
+```csharp
+... InputLesen(string dateiPfad) 
+{
+    // ...
+}
+```
 
 Damit die Klasse `Schlitten` mehr als 9 Rentiere aufnehmen kann (die Datei hat mehr als 9 Einträge), schriebe zuerst einen weiteren Paramterkonstruktor, welches wie gewohnt das Array der Rentieren übergeben bekommt, UND eine Länge (wie viele Rentiere existieren), damit die Größe des internen Arrays im Kontruktor gesetzt werden kann,.
 
