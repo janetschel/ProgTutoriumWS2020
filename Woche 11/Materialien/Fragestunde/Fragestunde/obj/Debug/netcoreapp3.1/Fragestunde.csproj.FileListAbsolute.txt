@@ -1,0 +1,12 @@
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/bin/Debug/netcoreapp3.1/Fragestunde.deps.json
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/bin/Debug/netcoreapp3.1/Fragestunde.runtimeconfig.json
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/bin/Debug/netcoreapp3.1/Fragestunde.runtimeconfig.dev.json
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/bin/Debug/netcoreapp3.1/Fragestunde.dll
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/bin/Debug/netcoreapp3.1/Fragestunde.pdb
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.csprojAssemblyReference.cache
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.AssemblyInfoInputs.cache
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.AssemblyInfo.cs
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.csproj.CoreCompileInputs.cache
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.dll
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.pdb
+/Users/janetschel/Desktop/Fragestunde/Fragestunde/obj/Debug/netcoreapp3.1/Fragestunde.genruntimeconfig.cache
